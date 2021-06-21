@@ -3,6 +3,6 @@ the Leeds, Grenville & Lanark District Health Unit (LGLDHU). We use National
 Ambulatory Care Reporting System (NACRS) and Discharge Abstract Database (DAD)
 data to quantify the number of emergency department visits and hospitalizations
 due to opioid overdoses. We use the ICD-10 T codes defined by Public Health
-Ontario and we count with respect to hopsital PHU, not patient PHU.
+Ontario (PHO) and we count with respect to hopsital PHU, not patient PHU.
 
 This RProject can be run by entering targets::tar_make() into the console.
